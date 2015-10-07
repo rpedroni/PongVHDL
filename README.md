@@ -5,8 +5,8 @@ A superbly simplified version of the game "Pong", written in VHDL (targeted for 
 + Controllable & Automatic ball speed increase for each round
 + Player scoreboards using SSD
 + Debounced buttons
-+ Multiplayer mode (2 buttons == 2 players)
-+ Fun for the whole family (if everyone in your family an engineer)
++ Multiplayer mode (2 buttons == 2 players, but you can play by yourself if you have at least 2 fingers)
++ Fun for the whole family (if everyone in your family is an engineer)
 
 ## Used in this project
 + DE0 board, running on top of a Cyclone III ep3c16f
